@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[每日时报]]></title><description><![CDATA[每日时报，会以前端技术体系为主要分享课题。内容会以：文章、工具、新闻、视频几大板块作为主要分类。]]></description><link>https://wubaiqing.github.io/zaobao</link><generator>RSS for Node</generator><lastBuildDate>Sat, 08 May 2021 01:10:02 GMT</lastBuildDate><atom:link href="https://wubaiqing.github.io/zaobao/rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[2020每日时报]]></copyright><language><![CDATA[zh-CN]]></language><item><title><![CDATA[2021.05.07 今天是每日时报陪伴您的第 552 天]]></title><description><![CDATA[<h3>2021.05.07 今天是每日时报陪伴您的第 552 天</h3>
+<p>[工具] 一个命令行工具，preset，通过应用预设来快速构建或升级你的应用：<a href="https://preset.dev/">https://preset.dev/</a></p>
+<p>[工具] 一个轻量化的评论工具，cusdis，前端部分采用了 vite：<a href="https://github.com/djyde/cusdis">https://github.com/djyde/cusdis</a></p>
+<p>[文章] sorrycc/weekly 每周一发布：<a href="https://github.com/sorrycc/weekly">https://github.com/sorrycc/weekly</a></p>
+<p>[文章] 又一篇关于 JavaScript Temporal API 的文献：<a href="https://blog.bitsrc.io/javascript-temporal-api-a-fix-for-the-date-api-aa8381a4234c">https://blog.bitsrc.io/javascript-temporal-api-a-fix-for-the-date-api-aa8381a4234c</a>，相关 proposal 已经到了 stage-3：<a href="https://github.com/tc39/proposal-temporal">https://github.com/tc39/proposal-temporal</a></p>
+<p>[文章] 10+ Best React Material-UI Admin Template：<a href="https://dev.to/rakesh_nakrani/10-best-react-material-ui-admin-template-51ob">https://dev.to/rakesh_nakrani/10-best-react-material-ui-admin-template-51ob</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/05/07.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/05/07.html</guid><pubDate>Fri, 07 May 2021 01:46:52 GMT</pubDate></item><item><title><![CDATA[2021.05.06 今天是每日时报陪伴您的第 551 天]]></title><description><![CDATA[<h3>2021.05.06 今天是每日时报陪伴您的第 551 天</h3>
+<p>[工具] 基于 Vite 的 markdown 转 slide 工具 Presentation Slides for Developers (Public Beta 🎉) ：<a href="https://github.com/slidevjs/slidev">https://github.com/slidevjs/slidev</a></p>
+<p>[文章] 程序员应该知道的那些画图工具：<a href="https://mp.weixin.qq.com/s/oWDoWEHNqdKWmHX9akcxPQ">https://mp.weixin.qq.com/s/oWDoWEHNqdKWmHX9akcxPQ</a></p>
+<p>[工具] swimlanes.io markdown 转流程图工具：<a href="https://swimlanes.io/">https://swimlanes.io/</a></p>
+<p>[文章] windcss 3.0 新语法解决了 tailwindcss 的 class 冗长问题：<a href="https://windicss.org/posts/v30.html">https://windicss.org/posts/v30.html</a></p>
+<pre><code class="language-html">&lt;button
+  class=&quot;bg-blue-400 hover:bg-blue-500 text-sm text-white font-mono font-light py-2 px-4 rounded border-2 border-blue-200 dark:bg-blue-500 dark:hover:bg-blue-600&quot;
+&gt;
+  Button
+&lt;/button&gt;
+</code></pre>
+<p>-&gt;</p>
+<pre><code class="language-html">&lt;button
+  bg=&quot;blue-400 hover:blue-500 dark:blue-500 dark:hover:blue-600&quot;
+  text=&quot;sm white&quot;
+  font=&quot;mono light&quot;
+  p=&quot;y-2 x-4&quot;
+  border=&quot;2 rounded blue-200&quot;
+&gt;
+  Button
+&lt;/button&gt;
+</code></pre>
+<p>[文章] 握手符号将来有 25 种肤色可以选择：<a href="https://jenniferdaniel.substack.com/p/pressing-flesh-against-flesh-">https://jenniferdaniel.substack.com/p/pressing-flesh-against-flesh-</a></p>
+<p><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0296d2ff-3377-4a11-8bd4-e15b440b9630_1000x500.gif" alt=""></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/05/06.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/05/06.html</guid><pubDate>Thu, 06 May 2021 02:54:16 GMT</pubDate></item><item><title><![CDATA[2021.04.30 今天是每日时报陪伴您的第 550 天]]></title><description><![CDATA[<h3>2021.04.30 今天是每日时报陪伴您的第 550 天</h3>
+<p>[新闻] 第四届 Vue.js 开发者大会由 Vue.js 官方举办，将于 2021 年 05 月 22 日在杭州正式开启。本次大会将主要采用在线直播方式与大家呈现，线下会有听少量听众席位！：<a href="https://vue.w3ctech.com/">https://vue.w3ctech.com/</a></p>
+<p>[工具] 一个 vue 低代码方案 - vue-low-code：<a href="https://github.com/KlausSchaefers/vue-low-code">https://github.com/KlausSchaefers/vue-low-code</a></p>
+<p>[文章] 如何使用 selection API 为选定文本创建操作：<a href="https://css-tricks.com/how-to-create-actions-for-selected-text-with-the-selection-api/">https://css-tricks.com/how-to-create-actions-for-selected-text-with-the-selection-api/</a></p>
+<p><img src="https://i2.wp.com/css-tricks.com/wp-content/uploads/2021/04/s_762D8D98D50FCAD3769F703DD6A78C7D6F366344F594E5692D3CDC98EB298C7F_1617131691181_ScreenShot2021-03-31at12.44.30AM.png?w=1750&amp;ssl=1" alt=""></p>
+<p>[文章] 精读《React Server Component》：<a href="https://zhuanlan.zhihu.com/p/367612332">https://zhuanlan.zhihu.com/p/367612332</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/04/30.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/04/30.html</guid><pubDate>Fri, 30 Apr 2021 01:28:56 GMT</pubDate></item><item><title><![CDATA[2021.04.29 今天是每日时报陪伴您的第 549 天]]></title><description><![CDATA[<h3>2021.04.29 今天是每日时报陪伴您的第 549 天</h3>
+<p>[文章] 低代码平台和社区开发者的崛起：更多解决方案还是更多问题：<a href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247508915&amp;idx=2&amp;sn=4df3cc4fec6b263e45cc90a58559f5e2&amp;chksm=f95216f0ce259fe69080ebc8c0ac294569210b1312a210ce593702efb38374de6b35c0a5be70&amp;scene=27#wechat_redirect">https://mp.weixin.qq.com/s?...</a></p>
+<p>[工具] 一个非常棒的 Vue 3 markdown-it 组件，可以支持外部插件 <a href="https://github.com/JanGuillermo/vue3-markdown-it">https://github.com/JanGuillermo/vue3-markdown-it</a></p>
+<p>[文章] 30 款 react dashboard template ：<a href="https://dev.to/davidepacilio/30-free-react-dashboard-templates-and-themes-49g4">https://dev.to/davidepacilio/30-free-react-dashboard-templates-and-themes-49g4</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/04/29.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/04/29.html</guid><pubDate>Thu, 29 Apr 2021 02:08:34 GMT</pubDate></item><item><title><![CDATA[2021.04.28 今天是每日时报陪伴您的第 548 天]]></title><description><![CDATA[<h3>2021.04.28 今天是每日时报陪伴您的第 548 天</h3>
+<p>[文章] github 火星计划：<a href="https://github.blog/2021-04-19-open-source-goes-to-mars/">https://github.blog/2021-04-19-open-source-goes-to-mars/</a></p>
+<p><img src="https://github.blog/wp-content/uploads/2021/04/mars2020achievement_blog.gif" alt=""></p>
+<p>[文章] Git 的奇技淫巧 🙈：<a href="https://github.com/521xueweihan/git-tips">https://github.com/521xueweihan/git-tips</a></p>
+<p>[工具] 一个 transition 工具：<a href="https://www.transition.style/">https://www.transition.style/</a></p>
+<p><img src="https://github.com/argyleink/transition.css/raw/main/gif/kitchen-sink.gif?raw=trues" alt=""></p>
+<p>[文章] 知乎上有关怎么才能有尤雨溪一半强，该怎么学习？的讨论，其中一条回复非常有意思；<a href="https://www.zhihu.com/question/456527668/answer/1857385102">https://www.zhihu.com/question/456527668/answer/1857385102</a></p>
+<p>[文章] 如何打造流程可扩展、高生产力的前端研发平台：<a href="https://juejin.cn/post/6955775203771154446">https://juejin.cn/post/6955775203771154446</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/04/28.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/04/28.html</guid><pubDate>Wed, 28 Apr 2021 02:08:26 GMT</pubDate></item><item><title><![CDATA[2021.04.26 今天是每日时报陪伴您的第 547 天]]></title><description><![CDATA[<h3>2021.04.26 今天是每日时报陪伴您的第 547 天</h3>
+<p>[工具] 有意思的项目，可视化解析 npm 包依赖项目：<a href="http://npm.anvaka.com/#/view/2d/react-native">http://npm.anvaka.com/#/view/2d/react-native</a></p>
+<p>[文章] 探秘神奇的运动路径动画：<a href="https://github.com/chokcoco/iCSS/issues/113">https://github.com/chokcoco/iCSS/issues/113</a></p>
+<p><img src="https://user-images.githubusercontent.com/8554143/115993710-9c772280-a606-11eb-94e9-0b7068141ae8.gif" alt=""></p>
+<p>[工具] 新一代 vue chrome 插件 - volar：<a href="https://github.com/johnsoncodehk/volar">https://github.com/johnsoncodehk/volar</a></p>
+<p>[文章] 从 vue-cli 迁移到 vite：<a href="https://medium.com/nerd-for-tech/from-vue-cli-to-vitejs-648d2f5e031d">https://medium.com/nerd-for-tech/from-vue-cli-to-vitejs-648d2f5e031d</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/04/26.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/04/26.html</guid><pubDate>Mon, 26 Apr 2021 01:48:45 GMT</pubDate></item><item><title><![CDATA[2021.04.25 今天是每日时报陪伴您的第 546 天]]></title><description><![CDATA[<h3>2021.04.25 今天是每日时报陪伴您的第 546 天</h3>
+<p>[工具] Eva.js 是一个专门用于创建交互式游戏项目的前端游戏引擎。：<a href="https://github.com/eva-engine/eva.js">https://github.com/eva-engine/eva.js</a></p>
+<blockquote>
+<p>Eva.js 是一款专注于开发游戏化项目的游戏引擎。 Eva.js 提供游戏化项目开发中最常用、最基础的功能，让开发前端游戏化变得轻而易举。 Eva.js 提供高效的游戏运行时、渲染能力，可实现复杂的游戏化场景。 Eva.js 基于 ECS 设计模式，可自由扩展引擎功能，构建更繁荣的生态系统。</p>
+</blockquote>
+<p>[文章] 一起聊聊技术与写作：<a href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651245595&amp;idx=1&amp;sn=afef442c29985575b3b217f502c578f5&amp;chksm=bd49159f8a3e9c895dde4b6e664c155eecfe2ef3363d59d31d400c990ee3d26b3ae10c9d7402&amp;scene=27#wechat_redirect">https://mp.weixin.qq.com/s?__b</a></p>
+<blockquote>
+<p>我们知道了，编程本质上是一种写作活动；我们知道了技术写作也是程序员日常工作的重要组成部分；我们知道了参与技术写作有助于贯通实践和表达；我们知道，技术写作需要找到符合自己当前发展阶段的定位；我们知道如何评估技术文章的质量，知道需要让我们的内容，往更加理性、客观的方向努力；我们需要相信和坚持内容大于形式，避免一些技术写作的误区。</p>
+</blockquote>
+<p>[文章] 从 0 开始手把手带你搭建一套规范的 Vue3.x 项目工程环境：<a href="https://juejin.cn/post/6951649464637636622">https://juejin.cn/post/6951649464637636622</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/04/25.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/04/25.html</guid><pubDate>Mon, 26 Apr 2021 01:48:45 GMT</pubDate></item><item><title><![CDATA[2021.04.23 今天是每日时报陪伴您的第 545 天]]></title><description><![CDATA[<h3>2021.04.23 今天是每日时报陪伴您的第 545 天</h3>
+<p>[工具] 基于 react、material、tailwind 开发的组件库 material-tailwind：<a href="https://material-tailwind.com/">https://material-tailwind.com/</a></p>
+<p>[文章] 利用 text-to-chart 的一些在线工具：<a href="https://xosh.org/text-to-diagram/">https://xosh.org/text-to-diagram/</a></p>
+<p>[工具] 一款交互感比较好的 vue-datetime：<a href="https://github.com/mariomka/vue-datetime">https://github.com/mariomka/vue-datetime</a></p>
+<p><img src="http://mariomka.github.io/vue-datetime" alt=""></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/04/23.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/04/23.html</guid><pubDate>Fri, 23 Apr 2021 01:42:41 GMT</pubDate></item><item><title><![CDATA[2021.04.22 今天是每日时报陪伴您的第 544 天]]></title><description><![CDATA[<h3>2021.04.22 今天是每日时报陪伴您的第 544 天</h3>
+<p>[文章] 新一代构建工具的比较：<a href="https://css-tricks.com/comparing-the-new-generation-of-build-tools/">https://css-tricks.com/comparing-the-new-generation-of-build-tools/</a></p>
+<blockquote>
+<p>分析 esbuild、snowpack、vite、wmr 构建工具背后的设计思想，原理。以及对比功能点差异与包的大小</p>
+</blockquote>
+<p>[工具] 2 款工作流的工具，react-flow：<a href="https://github.com/wbkd/react-flow">https://github.com/wbkd/react-flow</a>；flowkit：<a href="https://github.com/egoist/flowkit">https://github.com/egoist/flowkit</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/04/22.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/04/22.html</guid><pubDate>Thu, 22 Apr 2021 01:52:40 GMT</pubDate></item><item><title><![CDATA[2021.04.21 今天是每日时报陪伴您的第 543 天]]></title><description><![CDATA[<h3>2021.04.21 今天是每日时报陪伴您的第 543 天</h3>
+<p>[文章] vue3 有可能支持 vue2 编译后的组件：<a href="https://twitter.com/youyuxi/status/1384279510258839557">https://twitter.com/youyuxi/status/1384279510258839557</a></p>
+<p><img src="https://user-images.githubusercontent.com/6063358/115486504-60039980-a289-11eb-816d-649eb8ae6fce.png" alt="image"></p>
+<p>[文章] 云谦发起的前端信息咨询项目 MDH：<a href="https://fe-cool.github.io/news/">https://fe-cool.github.io/news/</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/04/21.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/04/21.html</guid><pubDate>Wed, 21 Apr 2021 02:08:36 GMT</pubDate></item><item><title><![CDATA[2021.04.19 今天是每日时报陪伴您的第 542 天]]></title><description><![CDATA[<h3>2021.04.19 今天是每日时报陪伴您的第 542 天</h3>
+<p>[文章] Chrome 90 发布：<a href="https://developer.chrome.com/blog/new-in-chrome-90/">https://developer.chrome.com/blog/new-in-chrome-90/</a></p>
+<blockquote>
+<p>新技术 Shadow DOM、CSS 容器查询</p>
+</blockquote>
+<p>[文章] 新时代布局中一些有意思的特性：<a href="https://github.com/chokcoco/iCSS/issues/111">https://github.com/chokcoco/iCSS/issues/111</a></p>
+<blockquote>
+<p>flex 布局中的 gap 属性；控制容器宽高比属性 aspect-ratio；firefox 下的 CSS Grid 瀑布流布局（grid-template-rows: masonry）；CSS 容器查询（Container Queries）</p>
+</blockquote>
+<p>[文章] MDH(make developer happier) 云谦 发起的前端咨询项目：<a href="https://fe-cool.github.io/news/">https://fe-cool.github.io/news/</a></p>
+<p>[文章] vue 历届项目的代号：<a href="https://github.com/egoist/always-bet-on-vue">https://github.com/egoist/always-bet-on-vue</a></p>
+<blockquote>
+<p>vue 3.0 是 one-piece，其实每个 vue 的 minor 和 major 版本都有一个对应的动画的代号名称</p>
+</blockquote>
+<p>[工具] vite-plugin-vue-gql 可以在 vue 文件编写 graphql：<a href="https://github.com/wheatjs/vite-plugin-vue-gql">https://github.com/wheatjs/vite-plugin-vue-gql</a></p>
+<pre><code class="language-vue">&lt;script setup lang=&quot;ts&quot;&gt;
+import { useQuery } from &quot;vql&quot;;
+
+const { data } = useQuery();
+&lt;/script&gt;
+
+&lt;template&gt;
+  &lt;h1&gt;{{ data.hello }}&lt;/h1&gt;
+&lt;/template&gt;
+
+&lt;gql&gt;
+{
+  hello
+}
+&lt;/gql&gt;
+</code></pre>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/04/19.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/04/19.html</guid><pubDate>Mon, 19 Apr 2021 02:21:03 GMT</pubDate></item><item><title><![CDATA[2021.04.16 今天是每日时报陪伴您的第 541 天]]></title><description><![CDATA[<h3>2021.04.16 今天是每日时报陪伴您的第 541 天</h3>
+<p>[文章] 语义化表达 —— 构建类型优先的交互体系：<a href="https://www.yuque.com/xufei-coder/code/fhoks9">https://www.yuque.com/xufei-coder/code/fhoks9</a></p>
+<blockquote>
+<p>近几年，随着 TypeScript 的逐步流行，类型系统逐渐被前端这个群体重视起来，也逐渐在一些组件库中被深度采用。但是，我们可以发现，如果从使用类型系统的几个层级去划分：类型不友好，类型友好，类型优先。几乎所有组件库都处于前两个层级，并未达到类型优先的程度。那么，什么是类型优先，它有什么好处，本文尝试结合一些具体案例，给出说明。</p>
+</blockquote>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/04/16.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/04/16.html</guid><pubDate>Fri, 16 Apr 2021 02:13:55 GMT</pubDate></item><item><title><![CDATA[2021.04.15 今天是每日时报陪伴您的第 540 天]]></title><description><![CDATA[<h3>2021.04.15 今天是每日时报陪伴您的第 540 天</h3>
+<p>[文章] vueconfus 尤雨溪的 ppt：<a href="https://docs.google.com/presentation/d/1Lu1X6dyofyWqE6lpWsdUAkHMWm9pB6A9bs187iIUin4/mobilepresent?slide=id.p">https://docs.google.com/presentation/d/1Lu1X6dyofyWqE6lpWsdUAkHMWm9pB6A9bs187iIUin4/mobilepresent?slide=id.p</a></p>
+<blockquote>
+<p>讨论了一下现有的 vue 生态环境的情况（vite，vitepress，vue-router，vuex。vue-devtools 等），重点强调的开发体验上的优化，官宣不在支持 ie11，vue2.7 将在 2021 年 Q3 出来，也将支持 vite；2021Q2 以后安装 vue，将默认安装 vue3；</p>
+</blockquote>
+<p>[工具] natto.dev，2d 可视化编程的一种方案：<a href="https://natto.dev/">https://natto.dev/</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/04/15.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/04/15.html</guid><pubDate>Thu, 15 Apr 2021 01:56:32 GMT</pubDate></item><item><title><![CDATA[2021.04.12 今天是每日时报陪伴您的第 538 天]]></title><description><![CDATA[<h3>2021.04.12 今天是每日时报陪伴您的第 538 天</h3>
+<p>[类库] 可以和 tailwindcss 完美结合的组件库 headlessui。：<a href="https://github.com/tailwindlabs/headlessui">https://github.com/tailwindlabs/headlessui</a></p>
+<blockquote>
+<p>由 vue 和 react 版本，由 <a href="https://github.com/tailwindlabs">tailwindlabs</a> 出品</p>
+</blockquote>
+<p>[文章] 4 个值得收藏的前端显示收藏项目：<a href="https://dev.to/lindelof/4-awesome-javascript-projects-worthy-of-your-collection-53fi">https://dev.to/lindelof/4-awesome-javascript-projects-worthy-of-your-collection-53fi</a></p>
+<blockquote>
+<p>分别是，web 特效，登陆页，web vr，web storage</p>
+</blockquote>
+<p>[文章] 从“前端智能化”视角看“低代码/无代码”：<a href="https://juejin.cn/post/6947951731292504072">https://juejin.cn/post/6947951731292504072</a></p>
+<blockquote>
+<p>马云先生在香港对年轻人传授创业经验时讲到 “蒸汽机和电力解放了人类的体力，人工智能和机器学习解放了人类的脑力”。 马云先生在评价蒸汽机和电力带来的失业问题时讲到 “人类在科技进步下从繁重的体力劳动中解放出来，逐步向脑力劳动过渡，这是人类社会的进步”。</p>
+</blockquote>
+<p>[文章] JS 语法 ESx 新特性：<a href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651573707&amp;idx=1&amp;sn=2601b3e36c2476bfcfd842585764a15b&amp;chksm=80251a0ab752931c485c432463632f94d0cc52fe3f9debea91fa25f57861159575a60d7ccff6&amp;scene=27#wechat_redirect%3E">https://mp.weixin.qq.com/s?...</a></p>
+<blockquote>
+<p>一次性盘点 ex6-12 的新特性</p>
+</blockquote>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/04/12.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/04/12.html</guid><pubDate>Tue, 13 Apr 2021 02:08:01 GMT</pubDate></item><item><title><![CDATA[2021.04.13 今天是每日时报陪伴您的第 539 天]]></title><description><![CDATA[<h3>2021.04.13 今天是每日时报陪伴您的第 539 天</h3>
+<p>[工具] SvelteKit is in public beta：<a href="https://svelte.dev/blog/sveltekit-beta">https://svelte.dev/blog/sveltekit-beta</a></p>
+<blockquote>
+<p>可以看做是 svelte 版的 next 和 nuxt，底层用了 vite</p>
+</blockquote>
+<p>[文章] Building React + Vue support for Tailwind UI：<a href="https://blog.tailwindcss.com/building-react-and-vue-support-for-tailwind-ui">https://blog.tailwindcss.com/building-react-and-vue-support-for-tailwind-ui</a></p>
+<blockquote>
+<p>昨天一篇有关 headlessui 组件库的介绍文献</p>
+</blockquote>
+<p>[文章] Use console.log() like a pro：<a href="https://markodenic.com/use-console-log-like-a-pro/">https://markodenic.com/use-console-log-like-a-pro/</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/04/13.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/04/13.html</guid><pubDate>Tue, 13 Apr 2021 02:08:01 GMT</pubDate></item><item><title><![CDATA[2021.04.09 今天是每日时报陪伴您的第 537 天]]></title><description><![CDATA[<h3>2021.04.09 今天是每日时报陪伴您的第 537 天</h3>
+<p>[文章] 推荐几款大数据可视化工具：<a href="https://itnext.io/visualization-tools-for-big-data-c3361241a67e">https://itnext.io/visualization-tools-for-big-data-c3361241a67e</a></p>
+<p>[文章] Vue tricks: smart layouts for VueJS：<a href="https://itnext.io/vue-tricks-smart-layouts-for-vuejs-5c61a472b69b">https://itnext.io/vue-tricks-smart-layouts-for-vuejs-5c61a472b69b</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/04/09.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/04/09.html</guid><pubDate>Fri, 09 Apr 2021 02:19:06 GMT</pubDate></item><item><title><![CDATA[2021.04.08 今天是每日时报陪伴您的第 536 天]]></title><description><![CDATA[<h3>2021.04.08 今天是每日时报陪伴您的第 536 天</h3>
+<p>[文章] 99% 开发者没弄明白的 babel 知识：<a href="https://mp.weixin.qq.com/s/sJMydobsSxzxj2SECwcr_A">https://mp.weixin.qq.com/s/sJMydobsSxzxj2SECwcr_A</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/04/08.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/04/08.html</guid><pubDate>Thu, 08 Apr 2021 02:25:58 GMT</pubDate></item><item><title><![CDATA[2021.04.07 今天是每日时报陪伴您的第 535 天]]></title><description><![CDATA[<h3>2021.04.07 今天是每日时报陪伴您的第 535 天</h3>
+<p>[文章] Programming is hard：<a href="https://dorinlazar.ro/2021-02-programming-is-hard/">https://dorinlazar.ro/2021-02-programming-is-hard/</a></p>
+<p>[文章] Serverless 准备好了，但开发者没有：<a href="https://dev.to/aws-builders/serverless-is-ready-developers-are-not-12f9">https://dev.to/aws-builders/serverless-is-ready-developers-are-not-12f9</a></p>
+<p>[类库] 自称最快的开源 table cheetah-grid：<a href="https://github.com/future-architect/cheetah-grid">https://github.com/future-architect/cheetah-grid</a></p>
+<p><img src="https://github.com/future-architect/cheetah-grid/raw/master/images/capture.png" alt=""></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/04/07.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/04/07.html</guid><pubDate>Wed, 07 Apr 2021 03:28:32 GMT</pubDate></item><item><title><![CDATA[2021.04.06 今天是每日时报陪伴您的第 534 天]]></title><description><![CDATA[<h3>2021.04.06 今天是每日时报陪伴您的第 534 天</h3>
+<p>[文章] Vue3 将不会支持 IE11 精力会投入到 Vue2.7：<a href="https://juejin.cn/post/6946756821675671566">https://juejin.cn/post/6946756821675671566</a></p>
+<blockquote>
+<p>Vue 3 将不会支持 IE11 原定投入 Vue 3 IE11 支持的精力将投入给 2.7，移植 3.x 兼容的新功能，包括：Composition API&lt;script setup&gt; 以及其它新的单文件组件特性 emits 选项 TS 类型改进 Vite 官方整合</p>
+</blockquote>
+<p>[文章] Worktile 前端工程化之路：<a href="https://mp.weixin.qq.com/s/yQoP8-9wCngnPNHrUNHT2Q">https://mp.weixin.qq.com/s/yQoP8-9wCngnPNHrUNHT2Q</a></p>
+<blockquote>
+<p>国内少有的 angularjs 运用较好的公司</p>
+</blockquote>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/04/06.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/04/06.html</guid><pubDate>Tue, 06 Apr 2021 02:16:43 GMT</pubDate></item><item><title><![CDATA[2021.04.02 今天是每日时报陪伴您的第 533 天]]></title><description><![CDATA[<h3>2021.04.02 今天是每日时报陪伴您的第 533 天</h3>
+<p>[文章] 都 2021 年了，你还不知道这 10 个 CSS 功能？：<a href="https://juejin.cn/post/6946231151874801695">https://juejin.cn/post/6946231151874801695</a></p>
+<p>[文章] 教你如何打造舒适、高效、时尚的前端开发环境：<a href="https://github.com/ykfe/fe-dev-playbook">https://github.com/ykfe/fe-dev-playbook</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/04/02.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/04/02.html</guid><pubDate>Fri, 02 Apr 2021 01:54:33 GMT</pubDate></item><item><title><![CDATA[2021.04.01 今天是每日时报陪伴您的第 532 天]]></title><description><![CDATA[<h3>2021.04.01 今天是每日时报陪伴您的第 532 天</h3>
+<p>[文章] 你需要知道的 ES2021 的改动：<a href="https://towardsdev.com/javascript-es2021-features-d864eccad081">https://towardsdev.com/javascript-es2021-features-d864eccad081</a></p>
+<p>[文章] 2021 年你需要知道的检查 css 的工具：<a href="https://juejin.cn/post/6945794591513657358">https://juejin.cn/post/6945794591513657358</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/04/01.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/04/01.html</guid><pubDate>Thu, 01 Apr 2021 02:58:38 GMT</pubDate></item><item><title><![CDATA[2021.03.31 今天是每日时报陪伴您的第 531 天]]></title><description><![CDATA[<h3>2021.03.31 今天是每日时报陪伴您的第 531 天</h3>
+<p>[文章] 通过自定义 Vue 指令实现前端曝光埋点：<a href="https://juejin.cn/post/6945624014643855367">https://juejin.cn/post/6945624014643855367</a></p>
+<blockquote>
+<p>利用 IntersectionObserver 以及 vue 指令 实现前端埋点</p>
+</blockquote>
+<p>[文章] 如何移除对象的属性：<a href="https://www.30secondsofcode.org/blog/s/javascript-remove-object-property">https://www.30secondsofcode.org/blog/s/javascript-remove-object-property</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/31.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/31.html</guid><pubDate>Wed, 31 Mar 2021 02:45:52 GMT</pubDate></item><item><title><![CDATA[2021.03.30 今天是每日时报陪伴您的第 530 天]]></title><description><![CDATA[<h3>2021.03.30 今天是每日时报陪伴您的第 530 天</h3>
+<p>[文章] Notion 编辑器原理分析：<a href="https://zhuanlan.zhihu.com/p/359122473">https://zhuanlan.zhihu.com/p/359122473</a></p>
+<p>[文章] 移动端开发的兼容适配与性能优化：<a href="https://github.com/chokcoco/cnblogsArticle/issues/25">https://github.com/chokcoco/cnblogsArticle/issues/25</a></p>
+<p>[文章] 从前端角度看企业软件的研发过程：<a href="https://zhuanlan.zhihu.com/p/149802972">https://zhuanlan.zhihu.com/p/149802972</a></p>
+<blockquote>
+<p>一直以来，企业软件前端工程体系处于一个很尴尬的局面，无数前端对它有过各种吐槽：技术栈老旧、封闭，体验差，而项目和交付经理又会觉得开发效率太低。据我所见，大部分吐槽的人并没有理解造成这些状况的深层原因，或者说，当自己去构建这么一套体系的时候，并不理解在选型和技术集成过程中，存有哪些可能的决策点。</p>
+</blockquote>
+<p>[文章] 数字技术战略：开发者体验 —— 内部工具的“最后一公里”：<a href="https://mp.weixin.qq.com/s/iwba1flyVpFYryu79-Id0g">https://mp.weixin.qq.com/s/iwba1flyVpFYryu79-Id0g</a></p>
+<blockquote>
+<p>开发者体验六要素：错误呈现。即出错时，以何种方式来呈现。文档体验。易用性。如何简化开发。交互式。降开发者学习成本。触点。让更多的人知道这个软件。支持。</p>
+</blockquote>
+<p>[类库] 基于 N-API 的 node-addon-api，目前是  JS 嵌入 C++ 最轻松的方式了：<a href="https://github.com/nodejs/node-addon-api">https://github.com/nodejs/node-addon-api</a></p>
+<p>[类库] 使用 render 函数在 canvas 中创建文档流布局，小程序海报图、小程序朋友圈分享图。：<a href="https://github.com/Gitjinfeiyang/easy-canvas">https://github.com/Gitjinfeiyang/easy-canvas</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/30.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/30.html</guid><pubDate>Tue, 30 Mar 2021 06:51:28 GMT</pubDate></item><item><title><![CDATA[2021.03.29 今天是每日时报陪伴您的第 529 天]]></title><description><![CDATA[<h3>2021.03.29 今天是每日时报陪伴您的第 529 天</h3>
+<p>[文章] 有意思！强大的 SVG 滤镜：<a href="https://github.com/chokcoco/cnblogsArticle/issues/27">https://github.com/chokcoco/cnblogsArticle/issues/27</a></p>
+<p>[工具] 🎖🎖🎖 一个基于 Vue2 / Vue3 的【大转盘 / 九宫格】抽奖插件；居然还有可视化编辑功能：<a href="https://github.com/LuckDraw/vue-luck-draw">https://github.com/LuckDraw/vue-luck-draw</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/29.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/29.html</guid><pubDate>Tue, 30 Mar 2021 02:09:36 GMT</pubDate></item><item><title><![CDATA[2021.03.26 今天是每日时报陪伴您的第 528 天]]></title><description><![CDATA[<h3>2021.03.26 今天是每日时报陪伴您的第 528 天</h3>
+<p>[工具] 一个基于 Vue3 的类 Umi 的企业级解决框架 fes：<a href="https://github.com/WeBankFinTech/fes.js">https://github.com/WeBankFinTech/fes.js</a></p>
+<p>[工具] 在线创建自己的 VSCode 主题工具：<a href="https://themes.vscode.one/">https://themes.vscode.one/</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/26.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/26.html</guid><pubDate>Mon, 29 Mar 2021 10:33:37 GMT</pubDate></item><item><title><![CDATA[2021.03.25 今天是每日时报陪伴您的第 527 天]]></title><description><![CDATA[<h3>2021.03.25 今天是每日时报陪伴您的第 527 天</h3>
+<p>[文章] 对比 H.265(HEVC) 与 H265 的文件大小：<a href="https://janstechtalk.blogspot.com/2021/03/comparing-h265-hevc-and-h265-video-file.html">https://janstechtalk.blogspot.com/2021/03/comparing-h265-hevc-and-h265-video-file.html</a></p>
+<p>[文章] 语法对比 Svelte 和 React：<a href="https://www.jackfranklin.co.uk/blog/comparing-svelte-and-react-javascript/">https://www.jackfranklin.co.uk/blog/comparing-svelte-and-react-javascript/</a></p>
+<p>[工具] 开发者边车，GitHub 打不开，GitHub 加速，git clone 加速，git release 下载加速，stackoverflow 加速：<a href="https://github.com/docmirror/dev-sidecar">https://github.com/docmirror/dev-sidecar</a></p>
+<p>[教程] 尝试通过 Vite 构建一个类 Ant Design Pro 的项目，也就是从零搭建一个简单易用的中后台脚手架：<a href="https://github.com/theprimone/vite-react">https://github.com/theprimone/vite-react</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/25.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/25.html</guid><pubDate>Thu, 25 Mar 2021 06:20:58 GMT</pubDate></item><item><title><![CDATA[2021.03.24 今天是每日时报陪伴您的第 526 天]]></title><description><![CDATA[<h3>2021.03.24 今天是每日时报陪伴您的第 526 天</h3>
+<p>[文章] 我最感兴趣的 3 个 JavaScript ES 2021 (ES 12)新特性：<a href="https://betterprogramming.pub/the-top-3-new-javascript-es-2021-es-12-features-im-excited-about-a3ac129efbb2">https://betterprogramming.pub/the-top-3-new-javascript-es-2021-es-12-features-im-excited-about-a3ac129efbb2</a></p>
+<p>[文章] 手把手教你打造前端智能图标识别工具：<a href="https://juejin.cn/post/6942881544147058725">https://juejin.cn/post/6942881544147058725</a></p>
+<p>[工具] TypeScript RPC 工具：<a href="https://github.com/trpc/trpc">https://github.com/trpc/trpc</a></p>
+<p>[类库] 所见即所得的 markdown 编辑器：<a href="https://bangle.dev/">https://bangle.dev/</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/24.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/24.html</guid><pubDate>Wed, 24 Mar 2021 04:50:45 GMT</pubDate></item><item><title><![CDATA[2021.03.22 今天是每日时报陪伴您的第 525 天]]></title><description><![CDATA[<h3>2021.03.22 今天是每日时报陪伴您的第 525 天</h3>
+<p>[文章] Web Accessibility 新手教程：<a href="https://bootcamp.uxdesign.cc/beginners-guide-to-web-accessibility-514644750b0f">https://bootcamp.uxdesign.cc/beginners-guide-to-web-accessibility-514644750b0f</a></p>
+<p>[文章] 一个 CSS 课程，把你变成一个魔术师：<a href="https://github.com/adamschwartz/magic-of-css">https://github.com/adamschwartz/magic-of-css</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/22.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/22.html</guid><pubDate>Mon, 22 Mar 2021 01:59:22 GMT</pubDate></item><item><title><![CDATA[2021.03.19 今天是每日时报陪伴您的第 524 天]]></title><description><![CDATA[<h3>2021.03.19 今天是每日时报陪伴您的第 524 天</h3>
+<p>[工具] 一个自动生成静态 GraphQL API 文档的工具 -- spectaql ：<a href="https://github.com/anvilco/spectaql#spectaql">https://github.com/anvilco/spectaql#spectaql</a></p>
+<p>[工具] 掘金采用的 markdown 编辑器 -- bytemd：<a href="https://github.com/bytedance/bytemd">https://github.com/bytedance/bytemd</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/19.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/19.html</guid><pubDate>Mon, 22 Mar 2021 01:59:22 GMT</pubDate></item><item><title><![CDATA[2021.03.18 今天是每日时报陪伴您的第 523 天]]></title><description><![CDATA[<h3>2021.03.18 今天是每日时报陪伴您的第 523 天</h3>
+<p>[文章] Vue3.0 新特性以及使用经验总结：<a href="https://juejin.cn/post/6940454764421316644">https://juejin.cn/post/6940454764421316644</a></p>
+<p>[类库] 纯 css 的图表库 Charts.css：<a href="https://chartscss.org/">https://chartscss.org/</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/18.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/18.html</guid><pubDate>Thu, 18 Mar 2021 02:15:29 GMT</pubDate></item><item><title><![CDATA[2021.03.17 今天是每日时报陪伴您的第 522 天]]></title><description><![CDATA[<h3>2021.03.17 今天是每日时报陪伴您的第 522 天</h3>
+<p>[文章] 基于 esbuild 的 universal bundler 设计：<a href="https://juejin.cn/post/6940218189921910797">https://juejin.cn/post/6940218189921910797</a></p>
+<p>[视频] 湿货! 聊聊 2021 黄玄关注的 JS 趋势 + 2020 问卷收尾</p>
+<p>&lt;iframe  width=&quot;500&quot; height=&quot;300&quot; src=&quot;//player.bilibili.com/player.html?aid=502145847&amp;bvid=BV1wN411X7Wz&amp;cid=310897889&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt; &lt;/iframe&gt;</p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/17.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/17.html</guid><pubDate>Wed, 17 Mar 2021 02:44:09 GMT</pubDate></item><item><title><![CDATA[2021.03.16 今天是每日时报陪伴您的第 521 天]]></title><description><![CDATA[<h3>2021.03.16 今天是每日时报陪伴您的第 521 天</h3>
+<p>[文章] 我对 Svelte 的看法：<a href="https://lutaonan.com/blog/svelte/">https://lutaonan.com/blog/svelte/</a></p>
+<blockquote>
+<p>对比 vue 和 react，svelte 是相对轻量的框架，文章详解了 svelte 一些设计上的思考</p>
+</blockquote>
+<p>[文章] Storybook for Webpack 5 ：<a href="https://storybook.js.org/blog/storybook-for-webpack-5/">https://storybook.js.org/blog/storybook-for-webpack-5/</a></p>
+<blockquote>
+<p>同时也支持 snowpack, vite, esbuild</p>
+</blockquote>
+<p>[文章] 为什么有些设计看上去不错：<a href="https://www.nngroup.com/articles/why-does-design-look-good/s">https://www.nngroup.com/articles/why-does-design-look-good/s</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/16.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/16.html</guid><pubDate>Tue, 16 Mar 2021 02:02:55 GMT</pubDate></item><item><title><![CDATA[2021.03.15 今天是每日时报陪伴您的第 520 天]]></title><description><![CDATA[<h3>2021.03.15 今天是每日时报陪伴您的第 520 天</h3>
+<p>[工具] 一款高颜值的 alert - sweetalert：<a href="https://sweetalert.js.org/">https://sweetalert.js.org/</a></p>
+<p><img src="https://raw.githubusercontent.com/t4t5/sweetalert/e3c2085473a0eb5a6b022e43eb22e746380bb955/assets/swal.gif" alt=""></p>
+<p>[工具] 用于各种颜色操作的 JavaScript 库：<a href="https://vis4.net/chromajs">https://vis4.net/chromajs</a></p>
+<p>[工具] ⚪ 基于 svg 组件，可以轻松地创建骨架加载。：<a href="https://skeletonreact.com/">https://skeletonreact.com/</a></p>
+<p>[类库] vuepress2 发布 beta 版本，支持用 vite 进行打包：<a href="https://vuepress2.netlify.app/zh/guide/">https://vuepress2.netlify.app/zh/guide/</a></p>
+<p>&lt;video src=&quot;https://video.twimg.com/tweet_video/EwXNJ2kVIAIp5oa.mp4&quot; controls=&quot;controls&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;</p>
+<p>[工具] 多人在线聊天工具 - dogehouse：<a href="https://github.com/benawad/dogehouse">https://github.com/benawad/dogehouse</a></p>
+<p>[文章] 如何做一个高质量的分享：<a href="https://mp.weixin.qq.com/s/Uwia82XlTMHPcvJ8QpPbSg">https://mp.weixin.qq.com/s/Uwia82XlTMHPcvJ8QpPbSg</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/15.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/15.html</guid><pubDate>Mon, 15 Mar 2021 02:08:23 GMT</pubDate></item><item><title><![CDATA[2021.03.12 今天是每日时报陪伴您的第 519 天]]></title><description><![CDATA[<h3>2021.03.12 今天是每日时报陪伴您的第 519 天</h3>
+<p>[文章] 为什么我不喜欢 tailwindcss：<a href="https://www.aleksandrhovhannisyan.com/blog/why-i-dont-like-tailwind-css/">https://www.aleksandrhovhannisyan.com/blog/why-i-dont-like-tailwind-css/</a></p>
+<p>[工具] vscode 的 vite 插件（现已支持 vitepress）：<a href="https://github.com/antfu/vscode-vite">https://github.com/antfu/vscode-vite</a></p>
+<h3>配图 --- vscode-vite</h3>
+<p><img src="https://pbs.twimg.com/media/EwND-UAUUAYp2tG?format=jpg&amp;name=4096x4096" alt=""></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/12.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/12.html</guid><pubDate>Fri, 12 Mar 2021 02:06:50 GMT</pubDate></item><item><title><![CDATA[2021.03.11 今天是每日时报陪伴您的第 518 天]]></title><description><![CDATA[<h3>2021.03.11 今天是每日时报陪伴您的第 518 天</h3>
+<p>[文章] 掘友们的创作利器-新版掘金编辑器上线啦！：<a href="https://juejin.cn/post/6937947579938242574">https://juejin.cn/post/6937947579938242574</a></p>
+<p>[工具] 用于 vue3 的手势 hook 工具 - vue-use-gesture ：<a href="https://vue-use-gesture.netlify.app/docs">https://vue-use-gesture.netlify.app/docs</a></p>
+<h3>配图 --- 掘金新编辑器</h3>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c2b1709d503f46b2848e975c700a9a76~tplv-k3u1fbpfcp-watermark.image" alt=""></p>
+<h3>配图 --- vue-use-gesture</h3>
+<p><img src="https://camo.githubusercontent.com/972414c19ec3ba6ab61fa4350807726d26e8bab12005c67a32311d98f3f1138a/68747470733a2f2f692e696d6775722e636f6d2f48366e585145712e676966" alt=""></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/11.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/11.html</guid><pubDate>Thu, 11 Mar 2021 03:54:54 GMT</pubDate></item><item><title><![CDATA[2021.03.10 今天是每日时报陪伴您的第 517 天]]></title><description><![CDATA[<h3>2021.03.10 今天是每日时报陪伴您的第 517 天</h3>
+<p>[文章] 那些与 IE 相伴的日子 ：<a href="https://juejin.cn/post/6937815094273245192">https://juejin.cn/post/6937815094273245192</a></p>
+<p>[文章] Vite - Vue 2 模版项目使用 composition-api 和 windiCSS ：<a href="https://github.com/lstoeferle/vite-vue2-windicss-starter">https://github.com/lstoeferle/vite-vue2-windicss-starter</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/10.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/10.html</guid><pubDate>Wed, 10 Mar 2021 02:15:19 GMT</pubDate></item><item><title><![CDATA[2021.03.05 今天是每日时报陪伴您的第 515 天]]></title><description><![CDATA[<h3>2021.03.05 今天是每日时报陪伴您的第 515 天</h3>
+<p>[工具] 🙉 📣 通过 git 提交消息向团队传达项目重要更新的工具 git-notify：<a href="https://github.com/jevakallio/git-notify">https://github.com/jevakallio/git-notify</a></p>
+<p>[文章] console 使用的小 tips：<a href="https://www.30secondsofcode.org/blog/s/console-log-cheatsheet">https://www.30secondsofcode.org/blog/s/console-log-cheatsheet</a></p>
+<h3>配图 git-notifys</h3>
+<p><img src="https://raw.githubusercontent.com/jevakallio/git-notify/master/docs/demo_animated.gif" alt=""></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/05.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/05.html</guid><pubDate>Mon, 08 Mar 2021 02:55:17 GMT</pubDate></item><item><title><![CDATA[2021.03.08 今天是每日时报陪伴您的第 516 天]]></title><description><![CDATA[<h3>2021.03.08 今天是每日时报陪伴您的第 516 天</h3>
+<p>[文章] 现代 CLI 和 GUI 方案指南 ：<a href="http://axuebin.com/articles/fe-solution/cli/desc.html">http://axuebin.com/articles/fe-solution/cli/desc.html</a></p>
+<p>[文章] 奇思妙想 CSS 文字动画：<a href="https://juejin.cn/post/6937102296442470413">https://juejin.cn/post/6937102296442470413</a></p>
+<p>[工具] Docusaurus 2 是一款性能卓越的静态网站生成器，可用于快速创建常见的内容驱动型网站（例如文档、博客、产品落地页和营销页等）：<a href="https://www.docusaurus.cn/docs">https://www.docusaurus.cn/docs</a></p>
+<h3>配图 --- 奇思妙想 CSS 文字动画</h3>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7d5f2cb8e9ac4c0695597b386014412b~tplv-k3u1fbpfcp-watermark.image" alt=""></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/08.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/08.html</guid><pubDate>Mon, 08 Mar 2021 02:55:17 GMT</pubDate></item><item><title><![CDATA[2021.03.04 今天是每日时报陪伴您的第 514 天]]></title><description><![CDATA[<h3>2021.03.04 今天是每日时报陪伴您的第 514 天</h3>
+<p>[文章] 利用 JS 构建一款超级玛丽：<a href="http://www.wopaige.cn/views/JS%E5%9F%BA%E7%A1%80/Super.html">http://www.wopaige.cn/views/JS基础/Super.html</a></p>
+<p>[工具] flowchart-fun 可以用文本，生成流程图的一项工具：<a href="https://github.com/tone-row/flowchart-fun">https://github.com/tone-row/flowchart-fun</a></p>
+<p>[类库] 我们近期开发工作台时，是使用了 node-pty + xterm.js 做的仿终端，xterm.js 之前介绍过，这次分享的是 node-pty；VSCode 的终端工具就是用它弄的：<a href="https://github.com/microsoft/node-pty">https://github.com/microsoft/node-pty</a></p>
+<h4>配图 - JS 构建一款超级玛丽</h4>
+<p><img src="http://www.wopaige.cn/assets/img/super.c398273b.gif" alt=""></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/04.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/04.html</guid><pubDate>Thu, 04 Mar 2021 06:42:40 GMT</pubDate></item><item><title><![CDATA[2021.03.03 今天是每日时报陪伴您的第 513 天]]></title><description><![CDATA[<h3>2021.03.03 今天是每日时报陪伴您的第 513 天</h3>
+<p>[文章] 如何做代码练习：<a href="https://dev.to/mikechrupcala/how-to-practice-for-code-challenges-4gbc">https://dev.to/mikechrupcala/how-to-practice-for-code-challenges-4gbc</a></p>
+<p>[文章] 像我这样的反 TypeScript 前端开发者是如何成为 TypeScript 粉丝的：<a href="https://chiragswadia.medium.com/how-an-anti-typescript-javascript-developer-like-me-became-a-typescript-fan-a4e043151ad7">https://chiragswadia.medium.com/how-an-anti-typescript-javascript-developer-like-me-became-a-typescript-fan-a4e043151ad7</a></p>
+<p>[文章] 利用鼠标位置实现 css 效果：<a href="https://css-tricks.com/how-to-map-mouse-position-in-css/">https://css-tricks.com/how-to-map-mouse-position-in-css/</a></p>
+<p>[工具] edex-ui 深受 DEX-UI 和 TRON Legacy 电影效果的启发；是一个类似于科幻电脑界面的全屏桌面应用程序，提供了可视化动态监测系统性能的图表、资源列表、触屏键盘等等，使其看起来非常高端大气上档次，另外还完美的支持终端操作：<a href="https://github.com/GitSquared/edex-ui#screenshots">https://github.com/GitSquared/edex-ui#screenshots</a></p>
+<p>[类库] js-base64 除了使用 window.btoa 以外，我们还可以使用 js-base64 来进行编码的转换：<a href="https://github.com/GitSquared/edex-ui#screenshots">https://github.com/GitSquared/edex-ui#screenshots</a></p>
+<h4>配图 - edex-ui</h4>
+<p><img src="http://qn.40zhe.com/zaobao/20210303102752.png" alt=""></p>
+<h4>示例 - 利用鼠标位置实现 css 效果</h4>
+<p>&lt;iframe height=&quot;600&quot; src=&quot;https://cdpn.io/amit_sheen/fullembedgrid/261df6f09d15a179b63454bb75acc191?animations=run&amp;type=embed&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; loading=&quot;lazy&quot; style=&quot;width: 100%;&quot;&gt;
+&lt;/iframe&gt;</p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/03.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/03.html</guid><pubDate>Wed, 03 Mar 2021 07:06:11 GMT</pubDate></item><item><title><![CDATA[2021.03.02 今天是每日时报陪伴您的第 512 天]]></title><description><![CDATA[<h3>2021.03.02 今天是每日时报陪伴您的第 512 天</h3>
+<p>[文章] 📖 针对组件开发的 VitePress：<a href="https://github.com/dewfall123/vitepress-for-component">https://github.com/dewfall123/vitepress-for-component</a></p>
+<p><img src="https://github.com/dewfall123/vitepress-for-component/blob/master/demo.png" alt=""></p>
+<p>[文章] ahooks 的 vue 实现：<a href="https://github.com/dewfall123/ahooks-vue">https://github.com/dewfall123/ahooks-vue</a></p>
+<p>[文章] 滴滴开源 LogicFlow：专注流程可视化的前端框架：<a href="https://juejin.cn/post/6933413834682007560">https://juejin.cn/post/6933413834682007560</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/02.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/02.html</guid><pubDate>Tue, 02 Mar 2021 02:09:09 GMT</pubDate></item><item><title><![CDATA[2021.03.01 今天是每日时报陪伴您的第 511 天]]></title><description><![CDATA[<h3>2021.03.01 今天是每日时报陪伴您的第 511 天</h3>
+<p>[文章] 云凤蝶-如何在企业级中后台业务实践低代码搭建：<a href="https://zhuanlan.zhihu.com/p/353361256">https://zhuanlan.zhihu.com/p/353361256</a></p>
+<p>[文章] 奇妙的 CSS MASK：<a href="https://github.com/chokcoco/iCSS/issues/80">https://github.com/chokcoco/iCSS/issues/80</a></p>
+<p><img src="https://user-images.githubusercontent.com/8554143/86509224-e8a76b00-be18-11ea-977d-2ebdb56a1f5f.gif" alt=""></p>
+<p>[文章] Storybook for Vue 3：<a href="https://medium.com/storybookjs/storybook-for-vue-3-947b868758d9">https://medium.com/storybookjs/storybook-for-vue-3-947b868758d9</a></p>
+<p>[类库] 基于 commitizen 的 cz 工具 cz-emoji：<a href="https://github.com/ngryman/cz-emoji">https://github.com/ngryman/cz-emoji</a></p>
+<pre><code class="language-bash">? Select the type of change you are committing: (Use arrow keys)
+❯ feature   🌟  A new feature
+  fix       🐞  A bug fix
+  docs      📚  Documentation change
+  refactor  🎨  A code refactoring change
+  chore     🔩  A chore change
+</code></pre>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/03/01.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/03/01.html</guid><pubDate>Mon, 01 Mar 2021 02:33:17 GMT</pubDate></item><item><title><![CDATA[2021.02.26 今天是每日时报陪伴您的第 510 天]]></title><description><![CDATA[<h3>2021.02.26 今天是每日时报陪伴您的第 510 天</h3>
+<p>[文章] 2020 年的 web 前端相关 star 增长数：<a href="https://risingstars.js.org/2020/en">https://risingstars.js.org/2020/en</a></p>
+<blockquote>
+<p>取了增长最多的一些类库，没有关注的可以关注一下了</p>
+</blockquote>
+<p>[文章] 我不想再做 web 前端开发了：<a href="https://soynomm.com/blog/i-dont-want-to-do-frontend-anymore/">https://soynomm.com/blog/i-dont-want-to-do-frontend-anymore/</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/02/26.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/02/26.html</guid><pubDate>Fri, 26 Feb 2021 01:54:25 GMT</pubDate></item><item><title><![CDATA[2021.02.25 今天是每日时报陪伴您的第 509 天]]></title><description><![CDATA[<h3>2021.02.25 今天是每日时报陪伴您的第 509 天</h3>
+<p>[文章] 前端优秀实践不完全指南：<a href="https://juejin.cn/post/6932647134944886797">https://juejin.cn/post/6932647134944886797</a></p>
+<p>[文章] 关于现代包管理器的深度思考——为什么现在我更推荐 pnpm 而不是 npm/yarn?：<a href="https://juejin.cn/post/6932046455733485575">https://juejin.cn/post/6932046455733485575</a></p>
+<p>[工具] 考拉的骨架屏生成工具：<a href="https://github.com/kaola-fed/awesome-skeleton/blob/master/README-zh_CN.md">https://github.com/kaola-fed/awesome-skeleton/blob/master/README-zh_CN.md</a></p>
+<p>[类库] 让 XTerm 自适应宽高的库：<a href="https://www.npmjs.com/package/xterm-addon-fit">https://www.npmjs.com/package/xterm-addon-fit</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/02/25.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/02/25.html</guid><pubDate>Thu, 25 Feb 2021 11:31:52 GMT</pubDate></item><item><title><![CDATA[2021.02.24 今天是每日时报陪伴您的第 508 天]]></title><description><![CDATA[<h3>2021.02.24 今天是每日时报陪伴您的第 508 天</h3>
+<p>[文章] D3.js 开发总结，开源可视化十年：<a href="https://observablehq.com/@mbostock/10-years-of-open-source-visualization">https://observablehq.com/@mbostock/10-years-of-open-source-visualization</a></p>
+<p>[工具] 开源免费软件库：<a href="https://free-for.dev/">https://free-for.dev/</a></p>
+<p>[文章] icestark 面向大型系统的微前端解决方案：<a href="https://ice.work/docs/icestark/about">https://ice.work/docs/icestark/about</a></p>
+<p><img src="https://img.alicdn.com/tfs/TB1bvbieEY1gK0jSZFMXXaWcVXa-1421-1416.png" alt=""></p>
+<p>[类库] 用来代替 Tailwind CSS 的 Windi CSS：<a href="https://github.com/windicss/windicss">https://github.com/windicss/windicss</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/02/24.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/02/24.html</guid><pubDate>Wed, 24 Feb 2021 02:09:32 GMT</pubDate></item><item><title><![CDATA[2021.02.23 今天是每日时报陪伴您的第 507 天]]></title><description><![CDATA[<h3>2021.02.23 今天是每日时报陪伴您的第 507 天</h3>
+<p>[文章] 如何在 GitHub 上展示你最新的博客文章和 YouTube 视频：<a href="https://dev.to/natterstefan/how-to-present-your-latest-blog-posts-and-youtube-videos-on-your-github-profile-543d">https://dev.to/natterstefan/how-to-present-your-latest-blog-posts-and-youtube-videos-on-your-github-profile-543d</a></p>
+<p><img src="https://user-images.githubusercontent.com/8397274/88047382-29b8b280-cb6f-11ea-9efb-2af2b10f3e0c.png" alt=""></p>
+<p>[文章] 学会 Proxy 就可以为所欲为：<a href="https://github.com/justjavac/proxy-www">https://github.com/justjavac/proxy-www</a></p>
+<pre><code class="language-js">const response = await www.baidu.com;
+
+console.log(response.ok);
+// ==&gt; true
+</code></pre>
+<p>[文章] 我作为技术管理者所犯的错误：<a href="https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/">https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/02/23.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/02/23.html</guid><pubDate>Tue, 23 Feb 2021 01:51:48 GMT</pubDate></item><item><title><![CDATA[2021.02.22 今天是每日时报陪伴您的第 506 天]]></title><description><![CDATA[<h3>2021.02.22 今天是每日时报陪伴您的第 506 天</h3>
+<p>[新闻] Announcing Vite 2.0：<a href="https://dev.to/yyx990803/announcing-vite-2-0-2f0a">https://dev.to/yyx990803/announcing-vite-2-0-2f0a</a></p>
+<blockquote>
+<p>yyx 在 dev.io 上的介绍</p>
+</blockquote>
+<p>[文章] 用 Google 字体和 Figma 在 15 分钟内设计一个简单的文字 logo：<a href="https://www.dinosaas.com/articles/design-a-simple-text-logo-with-google-fonts-and-figma">https://www.dinosaas.com/articles/design-a-simple-text-logo-with-google-fonts-and-figma</a></p>
+<p><img src="https://uploads-ssl.webflow.com/5f4acf32e17a9c037c4a6e65/5f70fe928f8ea4330893ca3b_Screen%20Shot%202020-09-27%20at%205.05.01%20PM.png" alt=""></p>
+<p>[文章] 2021 年最佳 VsCode 黑暗主题：<a href="https://dev.to/rjstyles/best-vscode-dark-themes-for-2021-78l">https://dev.to/rjstyles/best-vscode-dark-themes-for-2021-78l</a></p>
+<p>[类库] 利用 Fontmin 压缩 Web 用汉字字体文件：<a href="https://github.com/ecomfe/fontmin">https://github.com/ecomfe/fontmin</a></p>
+<p>[工具] 🌓 一个 React Hook 切换 暗色/亮色 模式：<a href="https://react-darkreader.vercel.app/">https://react-darkreader.vercel.app/</a></p>
+<p>[类库] 在零依赖性实现 JavaScript bcrypt 加密算法：<a href="https://github.com/dcodeIO/bcrypt.js">https://github.com/dcodeIO/bcrypt.js</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/02/22.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/02/22.html</guid><pubDate>Mon, 22 Feb 2021 08:31:30 GMT</pubDate></item><item><title><![CDATA[2021.02.21 今天是每日时报陪伴您的第 505 天]]></title><description><![CDATA[<h3>2021.02.21 今天是每日时报陪伴您的第 505 天</h3>
+<p>[新闻] vite2 发布了，先已发布中文版本文档：<a href="https://cn.vitejs.dev/">https://cn.vitejs.dev/</a></p>
+<blockquote>
+<p>从 v1 迁移文档：<a href="https://cn.vitejs.dev/guide/migration.html#%E4%BB%8E-v1-%E8%BF%81%E7%A7%BB">https://cn.vitejs.dev/guide/migration.html#从-v1-迁移</a></p>
+</blockquote>
+<p>[新闻] ant-design 之前的 github 仓库被莫名删除，现已恢复：<a href="https://github.com/ant-design/ant-design">https://github.com/ant-design/ant-design</a></p>
+<blockquote>
+<p>star 数要从 0 开始，没有 star 的可以去 star 一下</p>
+</blockquote>
+<p>[工具] github 项目直接从 vscode 打开：<a href="https://github.com/conwnet/github1s">https://github.com/conwnet/github1s</a></p>
+<p><img src="https://raw.githubusercontent.com/mohitjaisal/github1s/master/resources/images/Github1sDemo1.gif" alt=""></p>
+<p>[工具] fusion 官方物料库：<a href="https://fusion.design/pc/template">https://fusion.design/pc/template</a></p>
+<p>[文章] 巧用 -webkit-box-reflect 倒影实现各类动效：<a href="https://github.com/chokcoco/iCSS/issues/100">https://github.com/chokcoco/iCSS/issues/100</a></p>
+<p><img src="https://user-images.githubusercontent.com/8554143/108523825-530a0e80-7309-11eb-84e4-dad148e2c731.gif" alt=""></p>
+<p>[工具] 3d 效果的 github 2020 story：<a href="https://skyline.github.com/">https://skyline.github.com/</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/02/21.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/02/21.html</guid><pubDate>Sun, 21 Feb 2021 02:56:57 GMT</pubDate></item><item><title><![CDATA[2021.02.07 今天是每日时报陪伴您的第 504 天]]></title><description><![CDATA[<h3>2021.02.07 今天是每日时报陪伴您的第 504 天</h3>
+<p>[文章] Vite 中文文档社区：<a href="https://github.com/vitejs/docs-cn">https://github.com/vitejs/docs-cn</a></p>
+<p>如果有想要翻译的同学可以参与翻译工作</p>
+<p>[工具] 一个 css 的制作工具 css-doodle：<a href="https://css-doodle.com/">https://css-doodle.com/</a></p>
+<p>[工具] 1K 小巧和快速的库<code>number-precision</code>，用于精确地做加法，减法，乘法和除法运算： <a href="https://github.com/nefe/number-precision">https://github.com/nefe/number-precision</a></p>
+<pre><code class="language-js">import NP from &quot;number-precision&quot;;
+NP.strip(0.09999999999999998); // = 0.1
+NP.plus(0.1, 0.2); // = 0.3, not 0.30000000000000004
+NP.plus(2.3, 2.4); // = 4.7, not 4.699999999999999
+NP.minus(1.0, 0.9); // = 0.1, not 0.09999999999999998
+NP.times(3, 0.3); // = 0.9, not 0.8999999999999999
+NP.times(0.362, 100); // = 36.2, not 36.199999999999996
+NP.divide(1.21, 1.1); // = 1.1, not 1.0999999999999999
+NP.round(0.105, 2); // = 0.11, not 0.1
+</code></pre>
+<p>[工具] 轻量级图标库：<a href="https://github.com/tradingview/lightweight-charts">https://github.com/tradingview/lightweight-charts</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/02/07.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/02/07.html</guid><pubDate>Sun, 07 Feb 2021 03:04:36 GMT</pubDate></item><item><title><![CDATA[2021.02.05 今天是每日时报陪伴您的第 503 天]]></title><description><![CDATA[<h3>2021.02.05 今天是每日时报陪伴您的第 503 天</h3>
+<p>[视频] 设计师必看的 2021 年 UX 设计趋势！（中文版）：<a href="https://www.bilibili.com/video/BV1Jr4y1T79h/?spm_id_from=autoNext">https://www.bilibili.com/video/BV1Jr4y1T79h/?spm_id_from=autoNext</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/02/05.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/02/05.html</guid><pubDate>Fri, 05 Feb 2021 02:24:20 GMT</pubDate></item><item><title><![CDATA[2021.02.04 今天是每日时报陪伴您的第 502 天]]></title><description><![CDATA[<h3>2021.02.04 今天是每日时报陪伴您的第 502 天</h3>
+<p>[工具] 英语差等生必备的 vscode 插件，解决 单词不会读、单词不认识的痛点：<a href="https://github.com/mqycn/huile8">https://github.com/mqycn/huile8</a></p>
+<p><img src="https://camo.githubusercontent.com/81d040f4b522146a37de5be02bc8fd9ba34500491d32969b0f6951f443222009/68747470733a2f2f7777772e6d69616f71697975616e2e636e2f70726f64756374732f7673636f64652d6875696c65382f68656c702f68656c702e676966" alt=""></p>
+<p>[类库] 一款可配置的动画 header 展现工具 finisher-header：<a href="https://www.finisher.co/lab/header/">https://www.finisher.co/lab/header/</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/02/04.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/02/04.html</guid><pubDate>Thu, 04 Feb 2021 02:40:37 GMT</pubDate></item><item><title><![CDATA[2021.02.03 今天是每日时报陪伴您的第 501 天]]></title><description><![CDATA[<h3>2021.02.03 今天是每日时报陪伴您的第 501 天</h3>
+<p>[文章] 所见即所得! iMove 在线执行代码探索：<a href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651243740&amp;idx=1&amp;sn=33853ba39ebda3a1edc0effc9ae092cd&amp;chksm=bd491d588a3e944ec9beb61da7a6daeaffbca8e97e1af0763ae5dc5930c81ee850bf46f126e5&amp;scene=27#wechat_redirect">https://mp.weixin.qq.com/s?__</a></p>
+<p>iMove 分享在在线执行代码的解决思路</p>
+<p>[文章] 动态表单之表单组件的插件式加载方案：<a href="https://juejin.cn/post/6924829595006926856">https://juejin.cn/post/6924829595006926856</a></p>
+<p>基于 webpack 以及 umd 打包资源的灵活运用，不用在提前引入动态组件了。</p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/02/03.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/02/03.html</guid><pubDate>Wed, 03 Feb 2021 03:40:07 GMT</pubDate></item><item><title><![CDATA[2021.02.02 今天是每日时报陪伴您的第 500 天]]></title><description><![CDATA[<h3>2021.02.02 今天是每日时报陪伴您的第 500 天</h3>
+<p>[文章] 一个草根前端人的焦虑：<a href="https://juejin.cn/post/6922456847765110798">https://juejin.cn/post/6922456847765110798</a></p>
+<p>随笔的形式聊了下当代草根前端人的焦虑，非常喜欢这种草根的写作方式，很多问题都是现在程序员会普遍遇到的，如果你有焦虑也可以看一下。</p>
+<p>[文章] 你可能不知道的 transition 技巧与细节：<a href="https://juejin.cn/post/6924114612799406093">https://juejin.cn/post/6924114612799406093</a></p>
+<p>transition 的一些基本与骚操作，签名版功能：</p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/858296a39a7f4294b53e9b1712666469~tplv-k3u1fbpfcp-watermark.image" alt=""></p>
+<p>[工具]  浏览器生成图片的 2 个实践：text2image：<a href="https://github.com/egoist/text2image">https://github.com/egoist/text2image</a> 以及文档实现 Web 端自定义截屏：<a href="https://juejin.cn/post/6924368956950052877">https://juejin.cn/post/6924368956950052877</a></p>
+<p>[文章] 一个大佬的博客：<a href="https://antfu.me/">https://antfu.me/</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/02/02.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/02/02.html</guid><pubDate>Tue, 02 Feb 2021 02:30:23 GMT</pubDate></item><item><title><![CDATA[2021.01.29 今天是每日时报陪伴您的第 499 天]]></title><description><![CDATA[<h3>2021.01.29 今天是每日时报陪伴您的第 499 天</h3>
+<p>[文章] 揭秘 Vue.js 九个性能优化技巧：<a href="https://juejin.cn/post/6922641008106668045">https://juejin.cn/post/6922641008106668045</a></p>
+<p>这篇文章主要参考了 Vue.js 核心成员 <a href="https://github.com/Akryum">Guillaume Chau</a> 在 19 年美国的 Vue conf 分享的主题：9 Performance secrets revealed，分享中提到了九个 Vue.js 性能优化的技巧。</p>
+<p>[文章] 35 个 js 动效库：<a href="https://dev.to/haycuoilennao19/35-animation-library-css-javascript-for-developer-2c61">https://dev.to/haycuoilennao19/35-animation-library-css-javascript-for-developer-2c61</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/01/29.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/01/29.html</guid><pubDate>Fri, 29 Jan 2021 02:39:54 GMT</pubDate></item><item><title><![CDATA[2021.01.28 今天是每日时报陪伴您的第 498 天]]></title><description><![CDATA[<h3>2021.01.28 今天是每日时报陪伴您的第 498 天</h3>
+<p>[文章-视频] JavaScript 社区 2020 年度人口普查报告：<a href="https://2020.stateofjs.com/en-US/">https://2020.stateofjs.com/en-US/</a>，视频解读：<a href="https://www.bilibili.com/video/BV1Wy4y117qP">https://www.bilibili.com/video/BV1Wy4y117qP</a></p>
+<p>[文章] CSS 奇思妙想 -- 使用 CSS 创造艺术：<a href="https://github.com/chokcoco/iCSS/issues/94">https://github.com/chokcoco/iCSS/issues/94</a></p>
+<p><img src="https://user-images.githubusercontent.com/8554143/105871271-1b72b400-6034-11eb-9a97-6fd51cbf9416.png" alt=""></p>
+<p>[文章] 利用 blink-caret 实现打字效果：<a href="https://css-tricks.com/almanac/properties/c/caret-shape/">https://css-tricks.com/almanac/properties/c/caret-shape/</a></p>
+<p>&lt;iframe height=&quot;250&quot; src=&quot;//codepen.io/anon/embed/jrWwWM?height=250&amp;theme-id=1&amp;slug-hash=jrWwWM&amp;default-tab=result&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; loading=&quot;lazy&quot; style=&quot;width: 100%;&quot;&gt;
+&lt;/iframe&gt;</p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/01/28.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/01/28.html</guid><pubDate>Thu, 28 Jan 2021 02:25:29 GMT</pubDate></item><item><title><![CDATA[2021.01.27 今天是每日时报陪伴您的第 497 天]]></title><description><![CDATA[<h3>2021.01.27 今天是每日时报陪伴您的第 497 天</h3>
+<p>[文章] 5 个好用的 no-code 工具：<a href="https://dev.to/steve8708/5-best-no-code-tools-for-developers-4in5">https://dev.to/steve8708/5-best-no-code-tools-for-developers-4in5</a></p>
+<p><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--eIxjaQbt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/apz4ttyzpeuscbgttx1e.png" alt=""></p>
+<p>[文章] 编写高质量可维护的代码：优雅命名：<a href="https://juejin.cn/post/6922225108094287880">https://juejin.cn/post/6922225108094287880</a></p>
+<p>[工具] 测试浏览器性能工具：<a href="https://web.basemark.com/">https://web.basemark.com/</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/01/27.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/01/27.html</guid><pubDate>Wed, 27 Jan 2021 02:19:06 GMT</pubDate></item><item><title><![CDATA[2021.01.26 今天是每日时报陪伴您的第 496 天]]></title><description><![CDATA[<h3>2021.01.26 今天是每日时报陪伴您的第 496 天</h3>
+<p>[文章] 如何在 JavaScript 里面做缓存：<a href="https://www.30secondsofcode.org/blog/s/javascript-memoization">https://www.30secondsofcode.org/blog/s/javascript-memoization</a></p>
+<pre><code class="language-js">const memoize = fn =&gt;
+  new Proxy(fn, {
+    cache: new Map(),
+    apply(target, thisArg, argsList) {
+      let cacheKey = argsList.toString();
+      if (!this.cache.has(cacheKey))
+        this.cache.set(cacheKey, target.apply(thisArg, argsList));
+      return this.cache.get(cacheKey);
+    }
+  });
+
+const fibonacci = n =&gt; (n &lt;= 1 ? 1 : fibonacci(n - 1) + fibonacci(n - 2));
+const memoizedFibonacci = memoize(fibonacci);
+
+for (let i = 0; i &lt; 100; i++) fibonacci(30); // ~5000ms
+for (let i = 0; i &lt; 100; i++) memoizedFibonacci(30); // ~50ms
+</code></pre>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/01/26.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/01/26.html</guid><pubDate>Tue, 26 Jan 2021 03:18:39 GMT</pubDate></item><item><title><![CDATA[2021.01.25 今天是每日时报陪伴您的第 495 天]]></title><description><![CDATA[<h3>2021.01.25 今天是每日时报陪伴您的第 495 天</h3>
+<p>[文章] 8 个提示你网站效果的 idea：<a href="https://thewholesome.dev/p/8-frontend-coding-ideas-that-will">https://thewholesome.dev/p/8-frontend-coding-ideas-that-will</a></p>
+<p><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4539d098-5b54-40e5-8d4b-b12f72343a1c_575x418.gif" alt=""></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/01/25.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/01/25.html</guid><pubDate>Mon, 25 Jan 2021 02:01:41 GMT</pubDate></item><item><title><![CDATA[2021.01.22 今天是每日时报陪伴您的第 494 天]]></title><description><![CDATA[<h3>2021.01.22 今天是每日时报陪伴您的第 494 天</h3>
+<p>[文章] snowpack v3.0 引入 stream import：<a href="https://www.snowpack.dev/posts/2021-01-13-snowpack-3-0">https://www.snowpack.dev/posts/2021-01-13-snowpack-3-0</a></p>
+<p>&lt;video controls=&quot;&quot; src=&quot;https://css-tricks.com/wp-content/uploads/2021/01/streaming-imports-demo.mp4&quot; name=&quot;fitvid0&quot;&gt;&lt;/video&gt;</p>
+<p>[文章] 第三届 SEE Conf 2020 视频回放 &amp;&amp; PPT：<a href="https://www.yuque.com/seeconf/2020/slide">https://www.yuque.com/seeconf/2020/slide</a></p>
+<p>SEE Conf 是蚂蚁金服体验科技大会，是一个“看见者的大会”，希望技术能看见设计的价值，希望设计能看见技术的力量，彼此看见中互相融合成长，一起让世界更美好。</p>
+<p>[文章] 如何利用 css 属性来停止 css 动画：<a href="https://css-tricks.com/how-to-play-and-pause-css-animations-with-css-custom-properties/">https://css-tricks.com/how-to-play-and-pause-css-animations-with-css-custom-properties/</a></p>
+<p>&lt;div style=&quot;height: 1100px;&quot;&gt;&lt;iframe id=&quot;cp_embed_rNMprwo&quot; src=&quot;//codepen.io/anon/embed/rNMprwo?height=1100&amp;theme-id=1&amp;slug-hash=rNMprwo&amp;default-tab=result&quot; height=&quot;1100&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allowpaymentrequest=&quot;&quot; name=&quot;CodePen Embed rNMprwo&quot; title=&quot;CodePen Embed rNMprwo&quot; class=&quot;cp_embed_iframe&quot; style=&quot;width: 100%; overflow: hidden; height: 100%;&quot;&gt;CodePen Embed Fallback&lt;/iframe&gt;&lt;/div&gt;</p>
+<p>[文章] 前端每日一题 ：<a href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651569116&amp;idx=3&amp;sn=69b5c02069d92e0492c6f0c04fefe9a4&amp;chksm=80256c1db752e50b257f669963b05af35669b499b902e27566ba7ec16f25d824850bc1cc15c7&amp;scene=27#wechat_redirect">https://mp.weixin.qq.com/s?...</a></p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/01/22.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/01/22.html</guid><pubDate>Fri, 22 Jan 2021 02:00:03 GMT</pubDate></item><item><title><![CDATA[2021.01.21 今天是每日时报陪伴您的第 493 天]]></title><description><![CDATA[<h3>2021.01.21 今天是每日时报陪伴您的第 493 天</h3>
+<p>[文章] 2021 再看 Deno（CDN for JavaScript modules 的思考）：<a href="https://juejin.cn/post/6919389446068502535">https://juejin.cn/post/6919389446068502535</a></p>
+<p>狼叔探讨了 CDN for JavaScript modules 的理念，以及现有可能的实现方式；nodejs 的提案也已经跟进了</p>
+]]></description><link>https://wubaiqing.github.io/zaobao/2021/01/21.html</link><guid isPermaLink="true">https://wubaiqing.github.io/zaobao/2021/01/21.html</guid><pubDate>Thu, 21 Jan 2021 02:21:58 GMT</pubDate></item></channel></rss>
